@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "S8QB4VV633.serch.provider.app",
-                "paths": ["*"]
+                "paths": ["*", "/join_the_serch_provider_app/..*"]
             },
             {
                 "appID": "S8QB4VV633.serch.user.app",
-                "paths": ["*"]
+                "paths": ["*", "/join_the_serch_user_app/..*", "/request_serch_services/..*"]
             }
       ]
     }
